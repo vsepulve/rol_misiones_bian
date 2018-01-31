@@ -1,0 +1,507 @@
+Ogro
+4d8+16 (34 PG)
+16
+-1 tamaño, -1 destreza, +5 natural, +3 armadura de piel
+Gran Garrote (+7, 2d6+5) o Javalina (+1, 1d6+5)
+-1
+Dur +5, Ref +1, Men -2, Esp +2
+Fue 21 (+5), Des 8 (-1), Con 15 (+2), Int 6 (-1), Sab 10 (+0), Car 7 (-1).
+2
+Personal Pequeño
+<br>Dureza
+ogro
+
+Ogro Guerrero
+6d8+30 (57 PG)
+21
+-1 tamaño, +5 natural, +4 Camisón de malla, +2 escudo, +1 Arma y escudo
+Gran Sable y Escudo (+10, 2d8+6 y parada gratis +12)
+-1
+Dur +7, Ref +3, Men +0, Esp +3
+Fue 22 (+6), Des 10 (+0), Con 16 (+3), Int 8 (-1), Sab 10 (+0), Car 7 (-1).
+4
+Personal Medio
+<br>Dureza 
+ogro
+
+Troll
+6d8+36 (63 PG)
+16
+-1 tamaño, +2 destreza, +5 natural
+2 Garras (+11/+6, 1d6+5)
++2
+Dur +12, Ref +6, Men +0, Esp +3
+Fue 21 (+5), Des 14 (+2), Con 23, Int 6 (-1), Sab 9 (-1), Car 6 (-1).
+3
+Nada o Guarida Pequeño
+<br>Regeneración 6 <br>si los dos golpes impactan intenta desgarrar los brazos (control de fuerza con un +2 de ventaja, +7 total, para 2d6+8 de daño que cuenta como critico en un brazo)
+troll
+
+Troll de la Jungla
+8d8+48 (84 PG)
+18
+-1 tmaño, +3 destreza, +6 natural
+2 Garras (+15/+10, 1d8+7)
++3
+Dur +13, Ref +8, Men +2, Esp +5
+Fue 22 (+6), Des 16 (+3), Con 23, Int 8 (-1), Sab 10 (+0), Car 6 (-1).
+5
+Nada o Guarida Medi1
+<br>Regeneración 9 <br> Soltura Garra <br> Si los dos golpes impactan intenta desgarrar los brazos (control de fuerza con un +2 de ventaja, +8 total, para 2d8+9 de daño que cuenta como critico en un brazo)
+troll
+
+Semi Troll
+10d10+50 (105 PG)
+23
+-1 tamaño, +2 destreza, +4 natura, +5 Cota de Malla, +2 Escudo, +1 Arma y Escudo
+Martillo y Escudo (+14/+9, 2d6+10 y parada gratis +15)
++3
+Dur +15, Ref +8, Men +3, Esp +6
+Fue 22 (+6), Des 14 (+2), Con 23, Int 8 (-1), Sab 10 (+0), Car 8 (-1).
+7
+Medio o Guarida Media
+<br>Regeneración 12 <br> Soltura Martillo de Guerra <br> Arma y Escudo <br> Ataque Poderoso (3 puntos usados)
+troll
+
+Esqueleto humanoide
+1d12 (7 PG)
+13
++1 por Des, +2 Natural
+Espada Oxidada -1 (+1, 1d8) o 1 Lanza Oxidada -1 (+1, 1d6) o 1 Garra (+2, 1d4+1)
++2
+Dur +1, Ref +2, Men +1, Esp +1
+Fue 12 (+1), Des 12 (+1), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+0.3
+Nada
+<br>Inmune a armas punzantes y frío
+muerto viviente
+
+Esqueleto Guerrero n1
+1d12 (7 PG)
+14
++1 por Escudo, +1 por Des, +2 Natural
+Espada Larga (+3, 1d8+2) y Escudo
++2
+Dur +1, Ref +2, Men +1, Esp +1
+Fue 14 (+2), Des 12 (+1), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+0.5
+Nada
+<br>Inmune a armas punzantes y frío
+muerto viviente
+
+Esqueleto Guerrero n2
+2d12 (13 PG)
+16
++1 por Restos de Armadura, +1 por Escudo, +2 por Des, +2 Natural
+Espada Larga (+4, 1d8+2) y Escudo
++2
+Dur +1, Ref +3, Men +1, Esp +1
+Fue 14 (+2), Des 14 (+2), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+1
+Nada
+<br>Inmune a armas punzantes y frío
+muerto viviente
+
+Esqueleto Guerrero n4
+4d12 (26 PG)
+16
++2 por Restos de Armadura de Mallas, +2 por Des, +2 Natural
+Espada Larga (+6, 1d8+2) o 2 Hachas de Mano (+4/-2, 1d6+2)
++2
+Dur +2, Ref +4, Men +1, Esp +1
+Fue 14 (+2), Des 14 (+2), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+2
+Nada
+<br>Inmune a armas punzantes y frío
+muerto viviente
+
+Esqueleto En Llamas
+3d12 (20 PG)
+15
++2 por Des, +1 por Fuego, +2 Natural
+Espada Larga (+5, 1d8+4)
++2
+Dur +2, Ref +4, Men +1, Esp +1
+Fue 14 (+2), Des 14 (+2), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+1
+Nada
+<br>Cubierto de llamas que le dan +1 a CA, +2 al daño, y todos los que lo ataquen en cuerpo a cuerpo reciben 1 de daño por fuego. <br> Inmune a armas punzantes, fuego y débil al frío
+muerto viviente
+
+Zombie humanoide (zombie n1)
+2d12 (13 PG)
+11
+-1 por Des, +2 Natural
+Garrote (+3, 1d6+2) o Garra (+3, 1d4+2)
+-2
+Dur +1, Ref +0, Men +1, Esp +1
+Fue 12 (+1), Des 8 (-1), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+0.5
+Nada
+<br>Resistente a Armas punzantes. <br>Sólo puede realizar una acción por asalto
+muerto viviente
+
+Zombie Lobo (Zombie n2)
+4d12 (26 PG)
+14
++4 Natural
+Mordisco (+5, 1d6+3)
+0
+Dur +1, Ref +1, Men +1, Esp +1
+Fue 16 (+3), Des 10 (+0), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+1
+Nada
+<br>Resistente a Armas punzantes
+muerto viviente
+
+Zombie Caballero (zombie n3)
+6d12 (39 PG)
+15
++3 por Armadura de mallas dañada, +2 Natural
+Maza (+7, 1d8+4) o Espada Bastarda (+7, 1d10+4)
++0
+Dur +1, Ref +2, Men +2, Esp +2
+Fue 18 (+4), Des 10 (+0), Con --, Int --, Sab 10 (+0), Car 1 (-1)
+2
+Nada
+<br>Resistente a Armas punzantes. <br>Sólo puede realizar una acción por asalto
+muerto viviente
+
+Zombie Ogro (zombie n4)
+8d12 (52 PG)
+15
+-2 Des, -1 Tamaño, +8 Natural
+Gran Garrote con Púas (+11, 2d8+7)
+-2
+Dur +2, Ref +0, Men +2, Esp +2
+Fue 24 (+7), Des 6, Con --, Int --, Sab 10 (+0), Car 1 (-1)
+3
+Nada
+<br>Resistente a Armas punzantes. <br>Sólo puede realizar una acción por asalto
+muerto viviente
+
+Sombra 
+3d12 (20 PG)
+13
++1 Desvío, +2 Des
+Toque (+3, 1d6)
++2
+Dur +1, Ref +4, Men +0, Esp +4
+Fue --, Des 14 (+2), Con --, Int 6 (-1), Sab 12 (+1), Car 13 (+1)
+2
+Nada
+<br>Sólo puede ser dañado por armas mágicas, de plata o magia. <br>Tiene Contorno Borroso permanente lo que produce un 20% de falla en todos los ataques en su contra, excepto ataques de área. <br>Todo su daño se aplica también a la Fuerza. <br>Cualquier víctima reducida a 0 de Fuerza por ella se convierte en Sombra al cabo de 3 asaltos
+muerto viviente
+
+Espectro
+6d12 (39 PG)
+15
++2 Desvío, +3 Des
+Toque (+6, 1d8)
++4
+Dur +2, Ref +7, Men +6, Esp +8
+Fue --, Des 16 (+3), Con --, Int 14 (+2), Sab 14 (+2), Car 15 (+2)
+4
+Nada
+<br>Sólo puede ser dañado por armas mágicas y magia. <br>Tiene Contorno Borroso permanente lo que produce un 20% de falla en todos los ataques en su contra, excepto ataques de área. <br>Todo su daño se aplica también a Fuerza, Destreza y Constitución. Cualquier víctima reducida a 0 en cualquiera de esas puntuaciones por este ataque se convierte en Espectro al cabo de 3 asaltos
+muerto viviente
+
+Caballo de Guerra
+4d8+12 (30 PG)
+14
+-1 Tamaño, +1 Des, +4 Natural
+Pezuñas (+6, 1d6+4) y Mordisco (+1, 1d4+2)
++1
+Dur +7, Ref +5, Men +0, Esp +2
+Fue 18 (+4), Des 13 (+1), Con 17 (+3), Int 2, Sab 13 (+1), Car 6 (-1)
+2
+Nada
+<br>Nada
+animal
+
+Caballo Ligero
+3d8+3 (17 PG)
+13
+-1 Tamaño, +1 Des, +3 Natural
+Pezuñas (-2, 1d4+1)
++1
+Dur +5, Ref +4, Men +0, Esp +2
+Fue 14 (+2), Des 13 (+1), Con 13 (+1), Int 2, Sab 12 (+1), Car 6 (-1)
+1
+Nada
+<br>Nada
+animal
+
+Caballo Pesado
+3d8+6 (20 PG)
+13
+-1 Tamaño, +1 Des, +3 Natural
+Pezuñas (-1, 1d6+1)
++1
+Dur , Ref , Men , Esp 
+Fue 16 (+3), Des 13 (+1), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+1
+Nada
+<br>Nada
+animal
+
+Cocodrilo
+3d8+9 (23 PG)
+15
++1 Des, +4 Natural
+Mordisco (+6, 1d8+6) o Coletazo (+6, 1d12+3)
++1
+Dur +6, Ref +4, Men +0, Esp +2
+Fue 19 (+4), Des 12 (+1), Con 17 (+3), Int 1, Sab 12 (+1), Car 2 (-1)
+2
+Nada (Solitario) o Guarida Pequeño (Madriguera)
+<br>Luego de una mordedura exitosa, puede sujetar automáticamente a su objetivo para intentar ahogarla. Esconderse +7 (+11 en agua, +17 permaneciendo quieto en el agua)
+animal
+
+Cocodrilo Gigante
+7d8+28 (60 PG)
+16
+-2 Tamaño, +1 Des, +7 Natural
+Mordisco (+11, 2d8+12) o coletazo (+11, 1d12+6)
++1
+Dur +9, Ref +6, Men +0, Esp +3
+Fue 27 (+8), Des 12 (+1), Con 19, Int 1, Sab 12 (+1), Car 2 (-1)
+4
+Nada (Solitario) o Guarida Medio (Madriguera)
+<br>Luego de una mordedura exitosa, puede sujetar automáticamente a su objetivo para intentar ahogarla. <br>Esconderse +7 (+11 en agua, +17 permaneciendo quieto en el agua)
+animal
+
+Escarabajo Astado Gigante
+7d8+21 (53 PG)
+19
+-1 Tamaño, +10 Natural
+Mordisco (+10, 4d6+9)
++0
+Dur +8, Ref +2, Men +0, Esp +2
+Fue 23 (+6), Des 10 (+0), Con 17 (+3), Int --, Sab 10 (+0), Car 9 (-1)
+4
+Nada
+<br>Luego de golpear gana un intento de sujetar gratis con un +4 de ventaja (+10 en total). <br>Si tiene éxito, al asalto siguiente puede arrojar a su víctima como acción extra antes de atacar. <br>La victima es lanzada 1d6+3 metros y recibe ese mismo daño además de perder el asalto por la caída si no ha actuado
+animal
+
+Escarabajo Bombardero
+2d8+4 (13 PG)
+16
++6 Natural
+Mordisco (+2, 1d4+1) o Ácido
++0
+Dur +5, Ref +0, Men +0, Esp +0
+Fue 13 (+1), Des 10 (+0), Con 14 (+2), Int --, Sab 10 (+0), Car 9 (-1)
+1
+Nada
+<br>Puede lanzar una rociada de ácido asalto por medio, un cono de 6m que causa 2d6 de daño y genera náuseas por 3 asaltos para un -2 en todas las tiradas de ataque, habilidades y salvación. <br>Una TS de Dureza de CD 13 reduce el daño a la mitad y niega las nauseas
+animal
+
+Glotón
+3d8+15 (29 PG)
+14
++2 Des, +2 Natural
+Garras (+4, 1d4+2) y Mordisco (-1, 1d6+1)
++2
+Dur +7, Ref +5, Men +0, Esp +2
+Fue 14 (+2), Des 15 (+2), Con 19, Int 2, Sab 12 (+1), Car 10 (+0)
+2
+Nada
+<br>Entra en Furia al asalto siguiente a recibir daño, que le da +4 a Fue, +4 Con y -2 a CA. <br>En ese estado ataca con garras y dientes como un loco, y no puede detener ese estado hasta que él o su blanco caigan inconscientes
+animal
+
+Guepardo
+3d8+6 (20 PG)
+15
++4 Des, +1 Natural
+Mordisco (+6, 1d6+3) y Garras (+1, 1d4+1)
++4
+Dur +5, Ref +7, Men +0, Esp +2
+Fue 16 (+3), Des 19 (+4), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+2
+Nada
+<br>Si tienen éxito en algún ataque gana un intento de sujetar y derribar al oponente con un +2 de ventaja (+5 en total). <br>Mientras no se libere, puede recibir ataques con un +10 del guepardo
+animal
+
+Hiena
+2d8+4 (13 PG)
+14
++2 Des, +2 Natural
+Mordisco (+3, 1d6+3)
++2
+Dur +5, Ref +5, Men +0, Esp +1
+Fue 14 (+2), Des 15 (+2), Con 15 (+2), Int 2, Sab 13 (+1), Car 6 (-1)
+1
+Nada
+<br>Atacan en manada. <br>Cuando aciertan con su mordedura pueden intentar derribar gratis al oponente
+animal
+
+Jabalí
+3d8+12 (25 PG)
+16
++6 Natural
+Golpe de Colmillos (+4, 1d8+3)
++0
+Dur +6, Ref +3, Men +0, Esp +2
+Fue 15 (+2), Des 10 (+0), Con 17 (+3), Int 2, Sab 13 (+1), Car 4 (-1)
+2
+Nada (Solitario) o Guarida Pequeño (Madriguera)
+<br>Nada
+animal
+
+León
+5d8+10 (32 PG)
+15
+-1 Tamaño, +3 Des, +3 Natural
+Garras (+7, 1d4+5) y Mordisco (+2, 1d8+2)
++3
+Dur +6, Ref +7, Men +0, Esp +2
+Fue 21 (+5), Des 17 (+3), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+3
+Nada
+<br>Si acierta en uno de sus ataques gana un intento de sujetar y derribar al oponente con un +4 de ventaja (+9 en total). Mientras no se libere, puede recibir ataques con un +10 del león
+animal
+
+Leopardo (Jaguar, Pantera o Puma)
+3d8+6 (19 PG)
+15
++4 Des, +1 Natural
+Mordisco (+6, 1d6+3) y Garras (+1, 1d3+1)
++4
+Dur +5, Ref +7, Men +0, Esp +2
+Fue 16 (+3), Des 19 (+4), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+2
+Nada
+<br>Si acierta en uno de sus ataques gana un intento de sujetar y derribar al oponente con un +2 de ventaja (+5 en total). Mientras no se libere, la víctima puede recibir ataques con un +10
+animal
+
+Lobo
+2d8+4 (13 PG)
+14
++2 Des, +2 Natural
+Mordisco (+3, 1d6+3)
++2
+Dur +5, Ref +5, Men +0, Esp +1
+Fue 13 (+1), Des 15 (+2), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+1
+Nada (Solitario) o Guarida Pequeño (Madriguera)
+<br>Atacan en manada. <br>Cuando aciertan con su mordedura pueden intentar derribar gratis al oponente
+animal
+
+Oso Negro
+3d8+6 (19 PG)
+13
++1 Des, +2 Natural
+Garras (+6, 1d4+4) y Mordedura (+1, 1d6+2)
++1
+Dur +5, Ref +4, Men +0, Esp +2
+Fue 19 (+4), Des 13 (+1), Con 15 (+2), Int 2, Sab 12 (+1), Car 6 (-1)
+2
+Nada (Solitario) o Guarida Pequeño (Madriguera)
+<br>Nada
+animal
+
+Oso Pardo
+6d8+24 (51 PG)
+15
+-1 Tamaño, +1 Des, +5 Natural
+Garras (+11, 1d8+8) y Mordisco (+6, 2d6+4)
++1
+Dur +9, Ref +6, Men +0, Esp +3
+Fue 27 (+8), Des 13 (+1), Con 19, Int 2, Sab 12 (+1), Car 6 (-1)
+4
+Nada (Solitario) o Guarida Pequeño (Madriguera)
+<br>Con un ataque de garras exitoso gana un intento de agarre con un +2 de ventaja (+10 en total). <br>La víctima puede recibir ataques con un +10 mientras no se libere
+animal
+
+Perro Grande
+2d8+4 (13 PG)
+16
++2 Des, +4 Natural
+Mordisco (+3, 1d4+1)
++2
+Dur +5, Ref +5, Men +0, Esp +1
+Fue , Des , Con , Int , Sab , Car 
+1
+Nada
+<br>Nada
+animal
+
+Sapo Gigante
+4d8+8 (26 PG)
+15
++2 Des, +3 Natural
+Lenguetazo (+5, 1) y Mordisco (+5, 1d4 + veneno)
++2
+Dur +6, Ref +6, Men +0, Esp +6
+Fue 10 (+0), Des 14 (+2), Con 15 (+2), Int 2, Sab 15 (+2), Car 7 (-1)
+2
+Nada
+<br>Si acierta en un ataque de lengua gana un agarre gratis con un +4 de ventaja (+4 en total). <br>Si tiene éxito atrae a su víctima que recibe una mordedura con un +10 adicional. <br>Su mordedura inyecta un veneno de CD 14 que causa 1d6 a PG y Con, nada si se pasa la TS
+animal
+
+Serpiente Venenosa
+1d8 (5 PG)
+17
++1 Tamaño, +3 Des, +3 Natural
+Mordisco (+4, 1d2 y Veneno)
++3
+Dur +2, Ref +5, Men +0, Esp +1
+Fue 6 (-1), Des 17 Con 11 (+0), Int 1, Sab 12 (+1), Car 2 (-1)
+0.5
+Nada
+<br>Veneno CD 12 para 2d6 de daño a PG y Con si se falla la TS, o sólo 1d6 PG si se pasa
+animal
+
+Serpiente Constrictora
+3d8+6 (19 PG)
+15
++3 Des, +2 Natural
+Mordisco (+5, 1d4+4)
++3
+Dur +4, Ref +6, Men +0, Esp +2
+Fue 17 (+3), Des 17 (+3), Con 13 (+1), Int 1, Sab 12 (+1), Car 2 (-1)
+2
+Nada
+<br>Si tiene éxito con su mordedura, gana un intento de agarre con +2 de ventaja (+5 en total). <br>Una víctima sujeta por la constrictora recibe 1d4+3 de daño por asalto hasta que se libere con una prueba enfrentada de fuerza. <br>La serpiente gana un +2 en todas las pruebas de liberación de la víctima (+5 en total)
+animal
+
+Serpiente Constrictora Gigante
+11d8+14 (63 PG)
+15
+-2 Tamaño, +3 Des, +4 Natural
+Mordisco (+13, 1d8+10)
++3
+Dur +8, Ref +10, Men +0, Esp +4
+Fue 25 (+7), Des 17 (+3), Con 13 (+1), Int 1, Sab 12 (+1), Car 2 (-1)
+4
+Nada
+<br>Si tiene éxito con su mordedura, ganan un intento de agarre con un +2 de ventaja (+9 en total). <br>Una víctima sujeta por la constrictora gigante recibe 1d8+7 de daño por asalto hasta que se libere con una prueba enfrentada de fuerza. <br>La serpiente gana un +2 en todas las pruebas de liberación de la víctima (+9 en total)
+animal
+
+Tigre
+6d8+18 (45 PG)
+15
+-1 Tamaño, +2 Des, +3 Natural
+Garras (+9, 1d8+6) y Mordisco (+4, 2d6+3)
++2
+Dur +8, Ref +7, Men +0, Esp +3
+Fue 23 (+6), Des 15 (+2), Con 17 (+3), Int 2, Sab 12 (+1), Car 6 (-1)
+4
+Nada
+<br>Si acierta en un ataque gana un intento de sujetar y derribar con un +2 de ventaja (+8 en total). <br>La víctima sujeta recibe ataques con un +10 adicional
+animal
+
+Wyvern
+7d12+14 (60 PG)
+18
+-1 Tamaño, +1 Des, +8 Natural
+Aguijón (+10, 1d4 + veneno) y Mordisco (+8, 2d8+4) y Garras (+6, 2d6+4)
++1
+Dur +7, Ref +6, Men +3, Esp +6
+Fue 19 (+4), Des 12 (+1), Con 15 (+2), Int 6 (-1), Sab 12 (+1), Car 9 (-1)
+5
+Nada (Solitario) o Guarida Mediano (Madriguera)
+<br>Si tiene éxito en un ataque de garra puede sujetar a su oponente con un +4 de ventaja (+8 en total). <br>Si tiene éxito, los asaltos siguientes puede atacar a su presa con su Aguijón o Mordisco con un +10 adicional
+animal
+
