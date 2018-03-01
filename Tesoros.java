@@ -140,7 +140,7 @@ public class Tesoros {
 		Item i = new Item();
 		i.nombre = gemas_baratas[pos][0];
 		i.descripcion = gemas_baratas[pos][1];
-		i.valor = dado(2, 6);
+		i.valor = dado(1, 8);
 		return i;
 	}
 	
