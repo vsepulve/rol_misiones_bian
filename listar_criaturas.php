@@ -26,24 +26,6 @@ else{
 	$criaturas = get_criaturas($mysqli, NULL);
 }
 
-
-### Prueba ###
-
-$consulta = "select max(id_mision) from mision";
-$resultado = $mysqli->query($consulta);
-$fila = mysqli_fetch_array($resultado);
-echo "<h3>Test - fila[0]: \"".$fila[0]."\"</h3>";
-#echo "<h3>Test - resultado: \"".$resultado."\"</h3>";
-#if( $fila = $resultado->fetch_assoc() ){
-#$id_mision = -1;
-#$resultado = mysql_query($consulta, $db) or die("<h3>(crear_mision) Fallo en Select</h3>");
-if( $fila = $resultado->fetch_assoc() ){
-#	$id_mision = $fila[0];
-	echo "<h3>Test - resultado: \"".$fila["max(id_mision)"]."\"</h3>";
-}
-
-### Fin Prueba ###
-
 #mysql_close($db);
 
 foreach($criaturas as $criatura){
